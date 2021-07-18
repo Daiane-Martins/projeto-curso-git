@@ -1,4 +1,4 @@
-# Pão de batata
+# Pão de batata:bread:
 ## Ingredientes
 * 2 ovos
 * 2 batatas grandes
