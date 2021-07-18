@@ -1,4 +1,4 @@
-# Bolo de chocolate
+# Bolo de chocolate:chocolate_bar:
 ## Ingredientes
 ### Massa:
 * 3 ovos
