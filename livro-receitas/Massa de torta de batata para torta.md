@@ -1,4 +1,4 @@
-# Massa de Batata Para Torta
+# Massa de Batata Para Torta:potato:
 
 | Ingredientes | Modo de preparo |
 | --- | ----------- |
