@@ -1,4 +1,4 @@
-#  Bolo de milho de lata no liquidificador
+#  Bolo de milho de lata no liquidificador:corn:
 ## Ingredientes
 ### Massa:
 * 1 lata de milho (sem o líquido)
